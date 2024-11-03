@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a0a947c.css",
-    "main.js": "/static/js/main.b4fdc9cf.js",
-    "static/js/453.9add271e.chunk.js": "/static/js/453.9add271e.chunk.js",
-    "index.html": "/index.html",
-    "main.9a0a947c.css.map": "/static/css/main.9a0a947c.css.map",
-    "main.b4fdc9cf.js.map": "/static/js/main.b4fdc9cf.js.map",
-    "453.9add271e.chunk.js.map": "/static/js/453.9add271e.chunk.js.map"
+    "main.css": "/cold-palmer/static/css/main.9a0a947c.css",
+    "main.js": "/cold-palmer/static/js/main.90adffff.js",
+    "static/js/453.9add271e.chunk.js": "/cold-palmer/static/js/453.9add271e.chunk.js",
+    "index.html": "/cold-palmer/index.html",
+    "main.9a0a947c.css.map": "/cold-palmer/static/css/main.9a0a947c.css.map",
+    "main.90adffff.js.map": "/cold-palmer/static/js/main.90adffff.js.map",
+    "453.9add271e.chunk.js.map": "/cold-palmer/static/js/453.9add271e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a0a947c.css",
-    "static/js/main.b4fdc9cf.js"
+    "static/js/main.90adffff.js"
   ]
 }
