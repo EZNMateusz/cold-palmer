@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cold-palmer/static/css/main.9a0a947c.css",
+    "main.js": "/cold-palmer/static/js/main.90adffff.js",
+    "static/js/453.9add271e.chunk.js": "/cold-palmer/static/js/453.9add271e.chunk.js",
+    "index.html": "/cold-palmer/index.html",
+    "main.9a0a947c.css.map": "/cold-palmer/static/css/main.9a0a947c.css.map",
+    "main.90adffff.js.map": "/cold-palmer/static/js/main.90adffff.js.map",
+    "453.9add271e.chunk.js.map": "/cold-palmer/static/js/453.9add271e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a0a947c.css",
+    "static/js/main.90adffff.js"
+  ]
+}
