@@ -1,0 +1,29 @@
+/* src/components/RecipeForm.css */
+.RecipeForm {
+    margin-bottom: 20px;
+    text-align: left;
+    margin-right: 20px;
+  }
+  
+  .RecipeForm input,
+  .RecipeForm textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .RecipeForm button {
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .RecipeForm button:hover {
+    background-color: #218838;
+  }
